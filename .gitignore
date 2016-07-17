@@ -5,7 +5,6 @@ README.txt
 
 /*.txt
 !/robots.txt
-
 /autoload.php
 /core
 /core/phpcs.xml
